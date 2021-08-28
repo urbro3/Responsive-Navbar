@@ -20,16 +20,16 @@ body {
   /* border: 1px solid white; */
 }
 
+img {
+  background-color: white;
+  border-radius: 20%;
+  vertical-align: baseline;
+}
+
 .brand-title {
   font-size: 2rem;
   margin: 0.5rem;
   padding: 0.5rem;
-}
-
-img {
-  background-color: white;
-  border-radius: 20%;
-  vertical-align: center;
 }
 
 .navbar-links {
